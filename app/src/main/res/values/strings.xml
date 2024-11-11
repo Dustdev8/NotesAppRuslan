@@ -1,0 +1,17 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="enter_note_title">Enter note title</string>
+    <string name="enter_note_content">Enter note content</string>
+    <string name="save_note_button">Save Note</string>
+    <string name="note_saved_successfully">Note saved successfully!</string>
+    <string name="error_loading_note">Error loading note content</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_content">Note Content</string>
+    <string name="delete_note_title">Delete Note</string>
+    <string name="delete_note_description">Click to delete a note</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="toast_note_deleted">Note deleted successfully!</string>
+    <string name="click_to_view_note">Click to view note</string>
+</resources>
